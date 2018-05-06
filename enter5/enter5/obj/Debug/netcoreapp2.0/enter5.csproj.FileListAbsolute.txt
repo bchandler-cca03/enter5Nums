@@ -1,0 +1,10 @@
+C:\Users\Bill Chandler\Documents\mosh\enter5Nums\enter5\enter5\bin\Debug\netcoreapp2.0\enter5.deps.json
+C:\Users\Bill Chandler\Documents\mosh\enter5Nums\enter5\enter5\bin\Debug\netcoreapp2.0\enter5.runtimeconfig.json
+C:\Users\Bill Chandler\Documents\mosh\enter5Nums\enter5\enter5\bin\Debug\netcoreapp2.0\enter5.runtimeconfig.dev.json
+C:\Users\Bill Chandler\Documents\mosh\enter5Nums\enter5\enter5\bin\Debug\netcoreapp2.0\enter5.dll
+C:\Users\Bill Chandler\Documents\mosh\enter5Nums\enter5\enter5\bin\Debug\netcoreapp2.0\enter5.pdb
+C:\Users\Bill Chandler\Documents\mosh\enter5Nums\enter5\enter5\obj\Debug\netcoreapp2.0\enter5.csproj.CoreCompileInputs.cache
+C:\Users\Bill Chandler\Documents\mosh\enter5Nums\enter5\enter5\obj\Debug\netcoreapp2.0\enter5.AssemblyInfoInputs.cache
+C:\Users\Bill Chandler\Documents\mosh\enter5Nums\enter5\enter5\obj\Debug\netcoreapp2.0\enter5.AssemblyInfo.cs
+C:\Users\Bill Chandler\Documents\mosh\enter5Nums\enter5\enter5\obj\Debug\netcoreapp2.0\enter5.dll
+C:\Users\Bill Chandler\Documents\mosh\enter5Nums\enter5\enter5\obj\Debug\netcoreapp2.0\enter5.pdb
